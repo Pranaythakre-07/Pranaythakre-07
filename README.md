@@ -19,12 +19,12 @@ Gained practical experience in data organization, reporting, and professional wo
 
 
 **📌 What I'm Working On**
-```
-🔭• Currently building my skills in Advanced SQL & Data Analysis.
-🌱• Learning Python for Data Science (Pandas, NumPy, Matplotlib).
-📈• Exploring Power BI Dashboards and data storytelling.
-💼• Looking for opportunities in Data Analytics / Data Management.
-```
+
+🔭• Currently building my skills in Advanced SQL & Data Analysis.  
+🌱• Learning Python for Data Science (Pandas, NumPy, Matplotlib).     
+📈• Exploring Power BI Dashboards and data storytelling.    
+💼• Looking for opportunities in Data Analytics / Data Management.    
+
 **Contact Me**
 
 **🔗 LinkedIn:** linkedin.com/in/pranay-thakre-b31890347  
