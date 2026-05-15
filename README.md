@@ -25,3 +25,6 @@ Gained practical experience in data organization, reporting, and professional wo
 📈• Exploring Power BI Dashboards and data storytelling.
 💼• Looking for opportunities in Data Analytics / Data Management.
 ```
+**Contact Me**
+📧 Email: thakrepranay88@gmail.com  
+🔗 LinkedIn: linkedin.com/in/pranay-thakre-b31890347
