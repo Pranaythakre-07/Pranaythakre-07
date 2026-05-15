@@ -6,7 +6,7 @@ raw data into meaningful insights and solutions.
 
 **• Skills:** SQL (Advanced), Database Management, Data Analysis, Data Visualization, Business Analyst                      
 **• Tools and Platforms:** My SQL, TCP/IP, Power BI, Excel, Python   
-**Soft Skills**🔍 Problem-solving 🤝Collaboration🔄 Adaptability  💭Critical Thinking  👥Teamwork  🎯Goal-oriented
+**• Soft Skills**🔍 Problem-solving 🤝Collaboration🔄 Adaptability  💭Critical Thinking  👥Teamwork  🎯Goal-oriented
 
 **Internship**
 Completed a 6-month internship at CI Cables in the Data Management role, where I worked on maintaining records, handling data, 
