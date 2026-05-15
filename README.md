@@ -27,7 +27,7 @@ Gained practical experience in data organization, reporting, and professional wo
 ```
 **Contact Me**
 
-**🔗 LinkedIn:** linkedin.com/in/pranay-thakre-b31890347
+**🔗 LinkedIn:** linkedin.com/in/pranay-thakre-b31890347  
 **📧 Email:** thakrepranay88@gmail.com
 
 
