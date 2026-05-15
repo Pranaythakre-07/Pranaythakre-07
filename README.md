@@ -1,8 +1,7 @@
 **👋 Hi, I'm Pranay Thakre**
 
-**🙋‍♂️ About Me**
-Passionate about Data Analytics, SQL, and Python with an interest in transforming 
-raw data into meaningful insights and solutions.
+**🙋‍♂️ About Me** 
+Passionate about Data Analytics, SQL, and Python with an interest in transforming raw data into meaningful insights and solutions.
 
 **• Skills:** SQL (Advanced), Database Management, Data Analysis, Data Visualization, Business Analyst                      
 **• Tools and Platforms:** My SQL, TCP/IP, Power BI, Excel, Python   
@@ -14,7 +13,7 @@ and supporting operational activities. Gained practical experience in data organ
 
 
 **📌 What I'm Working On**
-🔭 Currently building my skills in Advanced SQL & Data Analysis
-🌱 Learning Python for Data Science (Pandas, NumPy, Matplotlib)
-📈 Exploring Power BI Dashboards and data storytelling
-💼 Looking for opportunities in Data Analytics / Data Management
+🔭• Currently building my skills in Advanced SQL & Data Analysis.
+🌱• Learning Python for Data Science (Pandas, NumPy, Matplotlib).
+📈• Exploring Power BI Dashboards and data storytelling.
+💼• Looking for opportunities in Data Analytics / Data Management.
