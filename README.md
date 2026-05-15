@@ -1,16 +1,23 @@
-## Hi there 👋
+**👋 Hi, I'm Pranay Thakre**
 
-<!--
-**Pranaythakre-07/Pranaythakre-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🙋‍♂️ About Me**
 
-Here are some ideas to get you started:
+Passionate about Data Analytics, SQL, and Python with an interest in transforming raw data into meaningful insights and solutions.
+**Internship**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Completed a 6-month internship at CI Cables in the Data Management role, where I worked on maintaining records, handling data, and supporting operational activities. Gained practical experience in data organization, reporting, and professional workplace communication.
+
+**• Skills:** SQL (Advanced), Database Management, Data Analysis, Data Visualization, Business Analyst                      
+**• Tools and Platforms:** My SQL, TCP/IP, Power BI, Excel, Python   
+  **Soft Skills**
+🔍 Problem-solving 🤝Collaboration
+🔄 Adaptability  💭Critical Thinking  
+👥Teamwork  🎯Goal-oriented
+
+
+
+**📌 What I'm Working On**
+🔭 Currently building my skills in Advanced SQL & Data Analysis
+🌱 Learning Python for Data Science (Pandas, NumPy, Matplotlib)
+📈 Exploring Power BI Dashboards and data storytelling
+💼 Looking for opportunities in Data Analytics / Data Management
