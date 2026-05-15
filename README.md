@@ -26,8 +26,8 @@ Gained practical experience in data organization, reporting, and professional wo
 💼• Looking for opportunities in Data Analytics / Data Management.
 ```
 **Contact Me**
-```
+
 🔗 LinkedIn: linkedin.com/in/pranay-thakre-b31890347
 📧 Email: thakrepranay88@gmail.com
 
-```
+
