@@ -1,19 +1,16 @@
 **👋 Hi, I'm Pranay Thakre**
 
 **🙋‍♂️ About Me**
-
-Passionate about Data Analytics, SQL, and Python with an interest in transforming raw data into meaningful insights and solutions.
-**Internship**
-
-Completed a 6-month internship at CI Cables in the Data Management role, where I worked on maintaining records, handling data, and supporting operational activities. Gained practical experience in data organization, reporting, and professional workplace communication.
+Passionate about Data Analytics, SQL, and Python with an interest in transforming 
+raw data into meaningful insights and solutions.
 
 **• Skills:** SQL (Advanced), Database Management, Data Analysis, Data Visualization, Business Analyst                      
 **• Tools and Platforms:** My SQL, TCP/IP, Power BI, Excel, Python   
-  **Soft Skills**
-🔍 Problem-solving 🤝Collaboration
-🔄 Adaptability  💭Critical Thinking  
-👥Teamwork  🎯Goal-oriented
+**Soft Skills**🔍 Problem-solving 🤝Collaboration🔄 Adaptability  💭Critical Thinking  👥Teamwork  🎯Goal-oriented
 
+**Internship**
+Completed a 6-month internship at CI Cables in the Data Management role, where I worked on maintaining records, handling data, 
+and supporting operational activities. Gained practical experience in data organization, reporting, and professional workplace communication.
 
 
 **📌 What I'm Working On**
