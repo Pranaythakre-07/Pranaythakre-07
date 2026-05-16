@@ -1,5 +1,5 @@
 # ✨ Welcome to My Profile 
-##👋 Hi, I'm Pranay Thakre
+## 👋 Hi, I'm Pranay Thakre
 
 **🙋‍♂️ About Me:** 
 
